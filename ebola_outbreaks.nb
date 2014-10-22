@@ -10,17 +10,19 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   2622748,      43412]
-NotebookOptionsPosition[   2621038,      43354]
-NotebookOutlinePosition[   2621688,      43376]
-CellTagsIndexPosition[   2621645,      43373]
+NotebookDataLength[   2622793,      43414]
+NotebookOptionsPosition[   2621084,      43356]
+NotebookOutlinePosition[   2621733,      43378]
+CellTagsIndexPosition[   2621690,      43375]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 Cell[BoxData[
- RowBox[{"Quit", "[", "]"}]], "Input",
- CellChangeTimes->{{3.622817910041284*^9, 3.622817911418388*^9}}],
+ RowBox[{
+  RowBox[{"Quit", "[", "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.622817910041284*^9, 3.622817911418388*^9}, 
+   3.6229914456229143`*^9}],
 
 Cell[CellGroupData[{
 
@@ -43352,7 +43354,7 @@ FfhupQMH+FQDmf/Lof/w34L/Cwgbnj0=\
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1920, 1056},
+WindowSize->{1600, 876},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
 FrontEndVersion->"10.0 for Linux x86 (64-bit) (September 9, 2014)",
 StyleDefinitions->Notebook[{
@@ -43375,42 +43377,42 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 118, 2, 31, "Input"],
+Cell[558, 20, 164, 4, 31, "Input"],
 Cell[CellGroupData[{
-Cell[701, 26, 104, 1, 44, "Subsection"],
+Cell[747, 28, 104, 1, 44, "Subsection"],
 Cell[CellGroupData[{
-Cell[830, 31, 770, 18, 92, "Input",
+Cell[876, 33, 770, 18, 92, "Input",
  InitializationCell->True],
-Cell[1603, 51, 7596, 192, 307, "Output"],
-Cell[9202, 245, 7614, 192, 307, "Output"]
+Cell[1649, 53, 7596, 192, 307, "Output"],
+Cell[9248, 247, 7614, 192, 307, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[16865, 443, 127, 1, 45, "Subsection"],
-Cell[16995, 446, 3637, 91, 192, "Input",
+Cell[16911, 445, 127, 1, 45, "Subsection"],
+Cell[17041, 448, 3637, 91, 192, "Input",
  InitializationCell->True]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[20669, 542, 109, 1, 44, "Subsection"],
-Cell[20781, 545, 13120, 351, 832, "Input",
+Cell[20715, 544, 109, 1, 44, "Subsection"],
+Cell[20827, 547, 13120, 351, 832, "Input",
  InitializationCell->True]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[33938, 901, 114, 1, 44, "Subsection"],
-Cell[34055, 904, 635, 14, 106, "Text"],
+Cell[33984, 903, 114, 1, 44, "Subsection"],
+Cell[34101, 906, 635, 14, 106, "Text"],
 Cell[CellGroupData[{
-Cell[34715, 922, 2408, 42, 52, "Input"],
-Cell[37126, 966, 226, 3, 31, "Output"]
+Cell[34761, 924, 2408, 42, 52, "Input"],
+Cell[37172, 968, 226, 3, 31, "Output"]
 }, Open  ]],
-Cell[37367, 972, 561, 14, 52, "Input"]
+Cell[37413, 974, 561, 14, 52, "Input"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[37965, 991, 105, 1, 45, "Subsection"],
+Cell[38011, 993, 105, 1, 45, "Subsection"],
 Cell[CellGroupData[{
-Cell[38095, 996, 1038, 15, 72, "Input"],
-Cell[39136, 1013, 1291253, 21173, 735, 651422, 10684, "CachedBoxData", \
+Cell[38141, 998, 1038, 15, 72, "Input"],
+Cell[39182, 1015, 1291253, 21173, 735, 651422, 10684, "CachedBoxData", \
 "BoxData", "Output"],
-Cell[1330392, 22188, 1290618, 21162, 735, 651076, 10678, "CachedBoxData", \
+Cell[1330438, 22190, 1290618, 21162, 735, 651076, 10678, "CachedBoxData", \
 "BoxData", "Output"]
 }, Open  ]]
 }, Open  ]]
